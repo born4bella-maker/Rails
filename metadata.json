@@ -1,0 +1,6 @@
+{
+  "name": "AgentVault: Autonomous Agent Self-Custody & x402 Infrastructure",
+  "description": "Prototype workbench for autonomous agent self-custody (ERC-4337/ERC-6551), policy guardrails with blocked actions for unsafe recipients, x402 micropayments, and transaction attestations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
